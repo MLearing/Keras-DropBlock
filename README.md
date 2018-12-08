@@ -6,7 +6,10 @@
 Implementation of [DropBlock](https://arxiv.org/pdf/1810.12890.pdf)
 
 ## Install
+Install from local folder:
 
+    python setup.py install
+Or install from PyPI
 ```bash
 pip install keras-drop-block
 ```
