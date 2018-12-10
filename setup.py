@@ -9,7 +9,7 @@ setup(
     author='CyberZHG',
     author_email='CyberZHG@gmail.com',
     description='DropBlock implemented in Keras',
-    long_description=open('README.rst', 'r').read(),
+    long_description=open('README.md', 'r').read(),
     install_requires=[
         'numpy',
         'keras',
